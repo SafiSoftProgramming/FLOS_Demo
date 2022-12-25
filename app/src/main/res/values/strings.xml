@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">FLOS</string>
+
+    <string name="scanner_error_message">can\'t scann</string>
+    <string name="Server_URL">http://safisoft.net/fyta/</string>
+
+    <string name="fyta_list_choose_php">fyta_all.php</string>
+
+    <string name="Home_adpost_php">fyta_adpost_api.php</string>
+
+    <string name="Member_conn_php">fyta_member_api.php</string>
+
+    <string name="Member_search_php">fyta_search_member_api.php</string>
+
+    <string name="Notification_php">fyta_notification_api.php</string>
+
+
+    <string name="URL_massage">fyta_notification_api.php</string>
+    <string name="URL_post">fyta_adpost_api.php</string>
+    <string name="URL_members_fyta">fyta_member_api.php</string>
+    <string name="URL_workout">fyta_history_api.php</string>
+
+    <string name="URL_library">plants_library.php</string>
+    <string name="URL_member_profile">fyta_members.php</string>
+    <string name="URL_members_pic">members_profile_imgs/</string>
+    <string name="URL_gardens">gardens_list.php</string>
+
+
+
+    <string name="Notification_Icons_Folder_Name">notification_icons/</string>
+    <string name="Notification_Icon_Type">.png</string>
+    <string name="facebook_app_id">607218801124012</string>
+    <string name="facebook_client_token">9d07152c66c34983bd0be6335cda2b95</string>
+</resources>
